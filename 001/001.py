@@ -8,7 +8,7 @@ while flag is not True:
         else:
             flag = False
             break
-        break
+        #break-this break is not needed
 
     if flag == True:
         print(number)
